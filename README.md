@@ -138,10 +138,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 
 ### File Structure
 ```
-house/
-├── README.md                           # This file
-├── house_price_prediction.ipynb        # Main analysis notebook
-└── Housing.csv                         # Dataset file
+House-Price-Prediction/
+  ├── README.md                           # This file
+  ├── house_price_prediction.ipynb        # Main analysis notebook
+  └── Housing.csv                         # Dataset file
 ```
 
 ## Skills Demonstrated
