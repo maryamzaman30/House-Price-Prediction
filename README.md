@@ -2,24 +2,16 @@
 
 This project is a part of my **AI/ML Engineering Internship** at **DevelopersHub Corporation**, Islamabad.
 
----
-
 ## Internship Details
 
 - **Company:** DevelopersHub Corporation, Islamabad 🇵🇰
 - **Internship Period:** July - August 2025
 
----
-
 # House Price Prediction Project
-
----
 
 ## Task Objective
 
 This project implements a comprehensive machine learning solution for predicting house prices using property features such as size, bedrooms, bathrooms, and various amenities. The goal is to develop accurate regression models that can estimate property values based on available features, providing valuable insights for real estate decision-making.
-
----
 
 ## Dataset Used
 
@@ -36,8 +28,6 @@ This project implements a comprehensive machine learning solution for predicting
 - No missing values detected
 - Contains 2.8% outliers in price data
 
----
-
 ## Models Applied
 
 ### 1. Linear Regression
@@ -51,8 +41,6 @@ This project implements a comprehensive machine learning solution for predicting
 - **Parameters**: n_estimators=100, learning_rate=0.1, max_depth=6
 - **Features**: Same feature set as Linear Regression
 - **Training**: Same train-test split for fair comparison
-
----
 
 ## Key Results and Findings
 
@@ -97,8 +85,6 @@ This project implements a comprehensive machine learning solution for predicting
 - **Categorical Impact**: Air conditioning and preferred area significantly increase property value
 - **Location Factors**: Main road access and furnishing status influence pricing
 
----
-
 ## Technical Implementation
 
 ### Preprocessing Pipeline
@@ -119,8 +105,6 @@ This project implements a comprehensive machine learning solution for predicting
 - **R²**: Coefficient of determination for variance explanation
 - **Cross-validation**: Ensures model robustness
 
----
-
 ## Recommendations
 
 ### For Production Use
@@ -139,8 +123,6 @@ This project implements a comprehensive machine learning solution for predicting
 2. **Investment Analysis** for property investors
 3. **Market Research** for understanding price drivers
 4. **Risk Assessment** for mortgage lending
-
----
 
 ## Getting Started
 
@@ -162,8 +144,6 @@ house/
 └── Housing.csv                         # Dataset file
 ```
 
----
-
 ## Skills Demonstrated
 
 - **Regression Modeling**: Linear and ensemble regression techniques
@@ -172,6 +152,5 @@ house/
 - **Data Visualization**: Comprehensive EDA and model analysis
 - **Real Estate Analytics**: Domain-specific insights and interpretation
 
----
 
 **Note**: This project demonstrates a complete machine learning workflow for house price prediction, suitable for educational purposes and as a foundation for production real estate valuation systems.
