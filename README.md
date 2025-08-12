@@ -17,6 +17,7 @@ This project implements a comprehensive machine learning solution for predicting
 
 **Dataset**: Housing Price Prediction Dataset  
 **Source**: Kaggle - https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction 
+
 **Size**: 545 samples with 13 features  
 **Features**:
 - **Numerical Features**: price, area, bedrooms, bathrooms, stories, parking
